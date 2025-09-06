@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Anto Das Ahir
 
-💻 Junior Frontend Developer | React Enthusiast | Problem Solver
+💻 Junior Fullstack Developer | React Enthusiast | Problem Solver
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **CareerQuartz** and **Deal Heaven**
+- 🔭 I’m currently working on **Velvet Ember** and **Global Givers**
 - 🌱 I’m learning **Next.js, TypeScript, and Advanced Backend**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Tailwind, Express.js, MongoDB**
@@ -30,12 +30,12 @@
 ---
 
 ## 📌 Featured Projects
+- 💼 **Global Givers** – Job post & apply platform  
+  Repo: https://github.com/anto-das/global-givers-client
 - 🎮 **Game Review App** – React, Express, MongoDB  
-  Repo: https://github.com/antodasahir/game-review-app
-- 💼 **CareerQuartz** – Job post & apply platform  
-  Repo: https://github.com/antodasahir/careerquartz
+  Repo: https://github.com/anto-das/global-givers-client
 - 🛍️ **Deal Heaven** – Coupons & deals SPA  
-  Repo: https://github.com/antodasahir/deal-heaven
+  Repo: https://github.com/anto-das/DEAL-HEAVEN
 
 ---
 
@@ -57,4 +57,4 @@
 
 ---
 
-⭐️ From [Anto Das Ahir](https://github.com/antodasahir)
+⭐️ From [Anto Das Ahir](https://github.com/anto-das)
