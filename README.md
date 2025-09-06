@@ -39,10 +39,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Anto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=antodasahir&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antodasahir&layout=compact&theme=radical)
-
 ---
 
 ## 👀 Profile Views
