@@ -68,7 +68,9 @@
 </div>
 
 ## 📌 Featured Projects
-- 💼 **Global Givers** – Job post & apply platform  
+- 🍽️ **VELVET EMBER** – Restrurent Mangement platform  
+  Repo: https://github.com/anto-das/Velvet-Ember-client
+- 💼 **Global Givers** – Volunteer post & apply platform  
   Repo: https://github.com/anto-das/global-givers-client
 - 🎮 **Game Review App** – React, Express, MongoDB  
   Repo: https://github.com/anto-das/global-givers-client
